@@ -7,7 +7,7 @@ Adeept RaspClaws is an open source intelligent robotics product for artificial i
 [RobotName]: Adeept RaspClaws \
 [Item Code]: ADR015 \
 [Official Raspberry Pi website]: https://www.raspberrypi.org/downloads/    \
-[Official website]:  https://www.adeept.com/     \  
+[Official website]:  https://www.adeept.com/     
 
 
 ## Getting Support or Providing Advice
